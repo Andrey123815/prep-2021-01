@@ -1,0 +1,7 @@
+#ifndef PROJECT_INCLUDE_SIMPLE_NUMBER_H_
+#define PROJECT_INCLUDE_SIMPLE_NUMBER_H_
+
+int smp_num(int n);
+
+#endif  // PROJECT_INCLUDE_SIMPLE_NUMBER_H_
+
