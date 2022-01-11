@@ -20,10 +20,6 @@
   
 -  [About project](#about)
 
--  [Usage in real life](#usage)
-
--  [Libraries & technologies](#lib_technologies)
-
 -  [Languages](#languages)
 
 -  [Developers](#developers)
@@ -45,7 +41,6 @@
   
 ![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C&logoColor=6296CC)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
-![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=postgresql&logoColor=6296CC)
   <br>
 <br>
 
@@ -53,11 +48,5 @@
 ## ✍️ Developers <a name = "developers"></a>
   
 [@And_Dayk](https://github.com/zdesbilaksenia) - Дьяконов Андрей [Team Lead, Database development]
-  
-[@kirill555101](https://github.com/kirill555101) - Каташинский Кирилл [Server development]
-  
-[@yut_fut](https://github.com/yutfut) - Голубев Сергей [Team Lead, Client development]
-  
-[@skvortsova_na](https://github.com/Natali-Skv) - Скворцова Наталья [Filesystem development & Integration Db and FS to server]
   <br>
 <br>
