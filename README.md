@@ -15,6 +15,7 @@
 [![Vk](https://img.shields.io/badge/-Vk-090909?style=for-the-badge&logo=vk&logoColor=4F7DB3)](https://vk.com/iddiakonov_041)
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=twitter&logoColor=27A0D9)](https://twitter.com/ivredomon?t=Y_vpcIiqIlrzdM4LcE3urw&s=09)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=facebook&logoColor=1195F5)](https://www.facebook.com/profile.php?id=100076707275289)
+[![Gitlab](https://img.shields.io/badge/-Gitlab-090909?style=for-the-badge&logo=gitlab&logoColor=1195F5)](https://gitlab.com/Andrey123815)
 <br>
   <br>
   
@@ -28,11 +29,11 @@
  
 -  [Получаемые навыки](#acquired_skills)
   
+-  [Структура репозитория и задачи](#tasks_and_structure)
+  
 -  [Контроль знаний](#knowledge_control)
   
 -  [Материалы для поступающих](#materials_for_incoming)
-
--  [Developer](#developer)
 <br>
   
   
@@ -60,6 +61,16 @@
 5. Базовые навыки использования стандартной библиотеки С++.
 6. Навыки командной работы, планирования и готовый проект в портфолио.
 
+  
+  
+## Структура репозитория и задачи <a name = "tasks_and_structure"></a>
+  
+- hw-1
+- hw-2
+- hw-3
+- hw-4
+- hw-5
+- hw-6
   
   
   
